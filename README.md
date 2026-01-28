@@ -1,6 +1,7 @@
 # P-Pick
 
-![Image](/docs/image/ppickFrame.png)
+<img width="2235" height="1239" alt="image" src="https://github.com/user-attachments/assets/9d738ca2-4279-439e-b6bf-e8fac11cd640" />
+
 MBTI의 P처럼 즉흥적으로 여행지를 Pick해 여행을 떠나보세요!
 
 ## 프로젝트 정보
